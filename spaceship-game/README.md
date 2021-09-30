@@ -1,6 +1,20 @@
 # Spaceship Game
 ## Screenshots
-![Screenshot](https://github.com/slypiggies/uploads/blob/main/spaceship-game/screenshots/1.PNG?raw=true) ![Screenshot](https://github.com/slypiggies/uploads/blob/main/spaceship-game/screenshots/3.PNG?raw=true) ![Screenshot](https://github.com/slypiggies/uploads/blob/main/spaceship-game/screenshots/4.PNG?raw=true) ![Screenshot](https://github.com/slypiggies/uploads/blob/main/spaceship-game/screenshots/5.PNG?raw=true) ![Screenshot](https://github.com/slypiggies/uploads/blob/main/spaceship-game/screenshots/6.PNG?raw=true) ![Screenshot](https://github.com/slypiggies/uploads/blob/main/spaceship-game/screenshots/7.PNG?raw=true) ![Screenshot](https://github.com/slypiggies/uploads/blob/main/spaceship-game/screenshots/8.PNG?raw=true) ![Screenshot](https://github.com/slypiggies/uploads/blob/main/spaceship-game/screenshots/9.PNG?raw=true) 
+![Screenshot](https://github.com/slypiggies/uploads/blob/main/spaceship-game/screenshots/1.PNG?raw=true)
+
+![Screenshot](https://github.com/slypiggies/uploads/blob/main/spaceship-game/screenshots/3.PNG?raw=true)
+
+![Screenshot](https://github.com/slypiggies/uploads/blob/main/spaceship-game/screenshots/4.PNG?raw=true)
+
+![Screenshot](https://github.com/slypiggies/uploads/blob/main/spaceship-game/screenshots/5.PNG?raw=true)
+
+![Screenshot](https://github.com/slypiggies/uploads/blob/main/spaceship-game/screenshots/6.PNG?raw=true)
+
+![Screenshot](https://github.com/slypiggies/uploads/blob/main/spaceship-game/screenshots/7.PNG?raw=true)
+
+![Screenshot](https://github.com/slypiggies/uploads/blob/main/spaceship-game/screenshots/8.PNG?raw=true)
+
+![Screenshot](https://github.com/slypiggies/uploads/blob/main/spaceship-game/screenshots/9.PNG?raw=true) 
 
 ## Controls
 Mouse: Camera
