@@ -1,0 +1,14 @@
+3
+1,Watch a movie with Sam,60,2:00’
+2 0
+Mon 14:00-16:00,Tue 12:00-14:00
+
+2,Apply for passport,10,2:00’
+2 1
+Mon 13:00-16:00,Tue 13:00-16:00
+3
+
+3,Pick up my passport,80,2:00’
+2 1
+Mon 13:00-16:00,Tue 13:00-16:00
+2
